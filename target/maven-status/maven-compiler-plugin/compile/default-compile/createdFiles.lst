@@ -1,0 +1,10 @@
+com\cobranca\ServletInitializer.class
+com\cobranca\controller\TitleController.class
+com\cobranca\CobrancaApplication.class
+com\cobranca\model\Title.class
+com\cobranca\model\EnumStatusTitle.class
+com\cobranca\service\TitleService.class
+com\cobranca\repository\TitleRepository.class
+com\cobranca\controller\HomeController.class
+com\cobranca\repository\filter\TitleFilter.class
+com\cobranca\model\AbstractEntity.class
